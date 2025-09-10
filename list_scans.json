@@ -1,16 +1,3 @@
 {
-  "mangas": [
-    {
-      "id": 3,
-      "name": "test3",
-      "coverUrl": "test.png",
-      "description": "test",
-      "author": "test",
-      "publicationYear": 2000,
-      "theme": "test",
-      "type": "test",
-      "genre": "test",
-      "telegramLink": "test"
-    }
-  ]
+  "mangas": []
 }
