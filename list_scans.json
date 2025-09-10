@@ -1,18 +1,6 @@
 {
   "mangas": [
     {
-      "id": 3,
-      "name": "Attack on Titan",
-      "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
-      "description": "L’humanité lutte pour survivre contre les Titans dans un monde post-apocalyptique.",
-      "author": "Hajime Isayama",
-      "publicationYear": 2009,
-      "theme": "Survie",
-      "type": "Shonen",
-      "genre": "Action, Drame, Surnaturel",
-      "telegramLink": "https://t.me/aot_fans"
-    },
-    {
       "id": 1756942495533,
       "name": "Test",
       "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
