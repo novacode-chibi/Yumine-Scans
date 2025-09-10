@@ -1,16 +1,3 @@
 {
-  "mangas": [
-    {
-      "id": 1756942495533,
-      "name": "Test",
-      "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
-      "description": "test",
-      "author": "test",
-      "publicationYear": 2025,
-      "theme": "test",
-      "type": "test",
-      "genre": "test",
-      "telegramLink": "test"
-    }
-  ]
+  "mangas": []
 }
