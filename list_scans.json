@@ -1,3 +1,40 @@
 {
-  "mangas": []
+  "mangas": [
+    {
+      "id": 2,
+      "name": "Naruto",
+      "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
+      "description": "L’histoire de Naruto Uzumaki, un jeune ninja qui rêve de devenir Hokage.",
+      "author": "Masashi Kishimoto",
+      "publicationYear": 1999,
+      "theme": "Ninja",
+      "type": "Shonen",
+      "genre": "Action, Aventure, Fantastique",
+      "telegramLink": "https://t.me/naruto_manga"
+    },
+    {
+      "id": 3,
+      "name": "Attack on Titan",
+      "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
+      "description": "L’humanité lutte pour survivre contre les Titans dans un monde post-apocalyptique.",
+      "author": "Hajime Isayama",
+      "publicationYear": 2009,
+      "theme": "Survie",
+      "type": "Shonen",
+      "genre": "Action, Drame, Surnaturel",
+      "telegramLink": "https://t.me/aot_fans"
+    },
+    {
+      "id": 1756942495533,
+      "name": "Test",
+      "coverUrl": "https://fr.wikipedia.org/wiki/Portable_Network_Graphics#/media/Fichier:PNG_transparency_demonstration_1.png",
+      "description": "test",
+      "author": "test",
+      "publicationYear": 2025,
+      "theme": "test",
+      "type": "test",
+      "genre": "test",
+      "telegramLink": "test"
+    }
+  ]
 }
